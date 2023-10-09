@@ -1,5 +1,0 @@
-# Database Configuration
-db.driver=com.mysql.cj.jdbc.Driver
-db.url=jdbc:mysql://localhost:3306/vehicle_rental_db
-db.username=root
-db.password=Nte#25
